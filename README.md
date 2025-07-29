@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repo
 ``
-git clone https://github.com/ASHISH1452/terrakube-sample-project.git
+git clone https://github.com/ASHISH1452/terrakube.git
 cd terrakube-sample-project
 
 2. ##Initialize & Apply Terraform
